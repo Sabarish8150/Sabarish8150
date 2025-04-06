@@ -35,6 +35,19 @@
 
 ---
 
+### 🚀 Highlighted Projects
+
+#### 🔹 Grade Automation System
+Automates grade calculation from image-based inputs using AI and Python  
+[🔗 View Project](https://github.com/Sabarish8150/)
+
+
+#### 🔹 Events Portal
+Manages student external events with login system and streamlined UI  
+[🔗 View Project](https://github.com/Sabarish8150/events_portal)
+
+---
+
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
@@ -60,7 +73,6 @@
 </p>
 
 ---
-
 ### 🌐 Let's Connect
 
 <p align="center">
