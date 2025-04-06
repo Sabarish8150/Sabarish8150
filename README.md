@@ -30,7 +30,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,php,go,nodejs,express,postgresql,mysql,git,github,c,streamlit" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,php,go,postgresql,mysql,git,github,c,java,streamlit" alt="Tech Stack" />
 </p>
 
 ---
