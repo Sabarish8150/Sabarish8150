@@ -11,22 +11,17 @@
 
 <img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 👨‍💻 I'm passionate about building **robust software solutions** using modern tech stacks
+- 👨‍💻 I'm a passionate developer who enjoys turning ideas into clean and scalable software solutions.
 
-- 🌱 Currently working on enhancing skills in:
-  - Backend Development
-  - REST APIs & Microservices
-  - Cloud Integration
-  - AI-driven Web Apps
+- 🌱 Currently focused on:
+  - Building **Grade Automation Systems** and an **Events Portal** to streamline real-world tasks
+  - Deep-diving into **Data Structures & Algorithms**
 
-- 🧠 I’m constantly learning **Data Structures & Algorithms**, and refining my **System Design** knowledge
+- 🧠 I love learning and can **adapt quickly to new technologies** — whether it's a new language, framework, or architectural pattern, I enjoy the challenge of mastering it.
 
-- 🛠️ Key Projects involve:
-  - AI-based dashboards
-  - Role-based login systems
-  - Real-time data visualizations using voice/text inputs
+- 💡 I'm driven by the impact of technology and believe in writing code that not only works but also **makes life easier and smarter**.
 
-- 📫 Reach me at: **sabarishsoulz@gmail.com** 
+- 📫 Reach me at: **sabarishsoulz@gmail.com**
 
 - ⚡ Fun fact: I enjoy debugging as much as I enjoy developing — it's like solving a puzzle!
 
@@ -84,5 +79,3 @@
 
 > 💬 *"I believe in building clean, scalable, and impactful applications that make technology more human."*  
 > Let’s connect and code the future together 🌐💡
-
----
