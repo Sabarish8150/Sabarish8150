@@ -23,7 +23,7 @@
 
 - 📫 Reach me at: **sabarishsoulz@gmail.com**
 
-- ⚡ Fun fact: I enjoy debugging as much as I enjoy developing — it's like solving a puzzle!
+- ⚡I enjoy debugging as much as I enjoy developing — it's like solving a puzzle!
 
 ---
 
